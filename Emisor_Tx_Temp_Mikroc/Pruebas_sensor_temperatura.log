@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F2550 -DL -O11111114 -fo20 -N"C:\Users\Usuario\Desktop\Temp\Pruebas sensor temp\Pruebas_sensor_temperatura.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Usuario\Desktop\Temp\Pruebas sensor temp\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "Pruebas_sensor_temperatura.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_OneWire.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	Pruebas_sensor_temperatura.c
+diagnostics: 127	123	Compiled Successfully	Pruebas_sensor_temperatura.c
+hint: 27	1164	Variable 't2_' has been eliminated by optimizer	Pruebas_sensor_temperatura.c
+hint: 29	1164	Variable 'sensor_temp_' has been eliminated by optimizer	Pruebas_sensor_temperatura.c
+diagnostics: 0	127	All files Compiled in 140 ms	 
+hint: 0	1144	Used RAM (bytes): 145 (7%)  Free RAM (bytes): 1882 (93%)	Used RAM (bytes): 145 (7%)  Free RAM (bytes): 1882 (93%)
+hint: 0	1144	Used ROM (bytes): 4838 (15%)  Free ROM (bytes): 27930 (85%)	Used ROM (bytes): 4838 (15%)  Free ROM (bytes): 27930 (85%)
+diagnostics: 0	125	Project Linked Successfully	Pruebas_sensor_temperatura.mcppi
+diagnostics: 0	128	Linked in 63 ms	 
+diagnostics: 0	129	Project 'Pruebas_sensor_temperatura.mcppi' completed: 250 ms	 
+diagnostics: 0	103	Finished successfully: 21 dic. 2021, 10:05:56	Pruebas_sensor_temperatura.mcppi
